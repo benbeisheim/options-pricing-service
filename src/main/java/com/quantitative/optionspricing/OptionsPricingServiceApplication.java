@@ -1,4 +1,4 @@
-package com.quantitative.options_pricing_service;
+package com.quantitative.optionspricing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
